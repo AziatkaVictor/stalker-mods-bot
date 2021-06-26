@@ -13,7 +13,7 @@ import re
 print('Запуск бота...')
 
 # Регистрация бота
-bot = telebot.TeleBot('1712118063:AAGdJ5Ci-COHA1K9VSugI1v7nTGK1itsU2c')
+bot = telebot.TeleBot('***')
 
 # Глобальная переменная массива
 global generating
